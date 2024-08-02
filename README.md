@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jagan
+👋 Hi, I’m Jagan
 
 <!---
 iamjgn/iamjgn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
